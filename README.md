@@ -1,13 +1,16 @@
 # uiufsi
-An information sharing system for faculty members and students of United International University (UIU). Students can see counseling time, upload and download previous questions.
+
 <!--- See https://shields.io for others or to customize this set of shields.  --->
-![GitHub repo size](https://img.shields.io/github/repo-size/ssabit/uiufsi?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/ssabit/uiufsi?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/ssabit/uiufsi?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/ssabit/uiufsi?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ssabit/uiufsi?color=red&style=flat-square)
-![GitHub](https://img.shields.io/github/license/ssabit/uiufsi?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/ssabit/uiufsi?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/ssabit/uiufsi?style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ssabit/uiufsi?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/ssabit/uiufsi?style=flat-square)
+
+An information sharing system for faculty members and students of United International University (UIU). Students can see counseling time, upload and download previous questions.
 
 ## Built With
 
@@ -18,7 +21,7 @@ An information sharing system for faculty members and students of United Interna
 * [MySQL](https://www.mysql.com/) - Used to store data
 
 
-## Authors
+## Contributors
 
 * **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
 * **Haider Ali** - [linkedin](https://www.linkedin.com/in/haideralibd/)
